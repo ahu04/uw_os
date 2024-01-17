@@ -1,0 +1,31 @@
+#
+# this file (~/public/.forward on Unix, U:public\.forward on Windows NT) 
+# controls how your electronic mail is forwarded.
+#
+# lines that start with a "#" character are comments
+#
+# If you want your mail delivered on a computer outside CS or
+# Statistics, put the full email address of the recipient in this
+# file, on a line by itself.
+#
+# For example:
+#     If your students.wisc.edu email address is "bucky@students.wisc.edu", 
+#     and you want all your mail to be sent to that account, put the
+#     following in this file, on a line by itself (after these comments):
+#		bucky@students.wisc.edu
+# 
+#     REMEMBER TO CHANGE THE NAME from "bucky" to YOUR use name!!!
+#
+# If you do not want your mail forwarded to another site, leave this
+# file empty (except for these comments)
+#
+# DO NOT use this file to forward mail from one CS or Statistics
+# computer to another -- it will not work. If you want to change your
+# mail home within CS or Statistics, please send mail to lab@cs.wisc.edu 
+# requesting the change. 
+#
+# SPECIAL INSTRUCTIONS FOR "COURSE" ACCOUNTS:
+#
+# 	this file must be owned by "root". It should be set that way already.
+#	If not, please send mail to lab@cs.wisc.edu
+#

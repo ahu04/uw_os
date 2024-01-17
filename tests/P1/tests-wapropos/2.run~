@@ -1,0 +1,1 @@
+cp -r /p/course/cs537-oliphant/tests/P1/tests-wapropos/apropos_pages .; mv apropos_pages man_pages; ./wapropos example
